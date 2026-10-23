@@ -16,7 +16,7 @@ An interactive Power BI dashboard exploring sales performance, customer characte
 ## Dashboard Features
 - KPI cards displaying sales, orders, products, customers, and returns.
 - Customer segmentation by demographic characteristics.
-- Geographic analysis using maps and treemaps.
+- Geographic analysis using maps and horizontal bar charts.
 - Monthly order trends displayed through an interactive chart.
 
 ## Key Insights & Business Implications
