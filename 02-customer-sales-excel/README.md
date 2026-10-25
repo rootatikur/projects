@@ -118,11 +118,11 @@ These are potential areas for further analysis, not verified outcomes of busines
 
 ## Dashboard Preview
 
-![Customer Sales Analysis Dashboard](screenshots/dashboard-overview.png)
+![Customer Sales Analysis Dashboard](screenshots/dashboard.png)
 
 ## Project File
 
-[Download the Excel Dashboard](customer-sales-analysis.xlsx)
+[Download the Excel Dashboard](Excel%20Interactive%20Dashboard.xlsx)
 
 ## Project Notes
 
