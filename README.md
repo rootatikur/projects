@@ -1,69 +1,19 @@
-# Data Analytics Portfolio | MD Atikur Rahman
+# Sales Dashboard Portfolio
 
-...Hey there!
+I’m Md Atikur Rahman, an International Management and Digital Engineering student at Hochschule München. These projects show how I use Power BI and Excel to answer business questions about sales, profitability, and customer segments.
 
-I am an International Management and Digital Engineering student at Hochschule München, Germany, with an interest in Data Analytics, Business Intelligence, and Market Intelligence.
+## Featured dashboards
 
-I enjoy transforming raw data into meaningful insights through data analysis, interactive dashboards, and business-focused reporting.
+| Project | Business question | Preview and file |
+| --- | --- | --- |
+| [AdventureWorks Sales Analysis](https://github.com/rootatikur/projects/tree/main/01-aw-sales-powerbi) · **Power BI** | How do sales, returns, and order activity vary across products, regions, and time? | [Screenshot](./01-aw-sales-powerbi/screenshots/dashboard-overview.png) · [Power BI file](./01-aw-sales-powerbi/AW%20Sales%20Analytical%20Dashboard%20by%20Power%20BI.pbix) |
+| [Customer Sales Analysis](https://github.com/rootatikur/projects/tree/main/02-customer-sales-excel) · **Excel** | Which segments, regions, and categories drive sales and profit? The dashboard explores about $2.3M in sales and $286K in profit from the dataset. | [Screenshot](./02-customer-sales-excel/screenshots/dashboard.png) · [Excel workbook](./02-customer-sales-excel/Excel%20Interactive%20Dashboard.xlsx) |
 
-## Technical Skills
+Each project page explains the metrics, dashboard design, and findings. Open the PBIX in Power BI Desktop or the workbook in Excel to use the interactive filters.
 
-- **Data Analysis:** Microsoft Excel, Python (Pandas, NumPy), SQL
-- **Business Intelligence:** Power BI
-- **Excel:** PivotTables, Power Query, Interactive Dashboards
-- **Data Visualization:** Power BI, Matplotlib, Seaborn
-- **Core Competencies:** Data Cleaning, KPI Reporting, Exploratory Data Analysis, Business Insights
+## More projects
 
-## Featured Projects
+- [Greatfit Clothing E-Commerce Analysis](https://github.com/rootatikur/projects/tree/main/other-projects#1-greatfit-clothing-e-commerce-analysis) and [Hotel Booking Analysis](https://github.com/rootatikur/projects/tree/main/other-projects#2-hotel-booking-analysis) in Power BI.
+- [Global Layoffs Data Cleaning and Analysis](https://github.com/rootatikur/layoffs-data-cleaning-sql) in MySQL.
 
-### 1. AdventureWorks Sales Analysis | Power BI
-
-An interactive business intelligence dashboard designed to explore sales performance and support data-driven business decisions.
-
-**Key Highlights**
-- Sales performance monitoring through KPIs
-- Interactive reporting and visualizations
-- Analysis of sales trends and business performance
-
-**Tools:** Power BI
-
-[View Project](01-aw-sales-powerbi/)
-
-### 2. Customer Sales Analysis | Microsoft Excel
-
-An interactive Excel dashboard analyzing customer sales, profitability, regional performance, and business trends.
-
-**Key Highlights**
-- Analyzed approximately $2.3M in sales and $286K in profit
-- Developed interactive dashboards using PivotTables and slicers
-- Evaluated sales performance across customer segments, regions, and product categories
-- Calculated profitability metrics to support business analysis
-
-**Tools:** Microsoft Excel, PivotTables, Slicers
-
-[View Project](02-customer-sales-excel/)
-
-## Additional Projects
-
-I have also worked on other Power BI dashboard projects involving e-commerce and hotel booking data.
-
-[Explore Additional Projects](other-projects/)
-
-## Career Interests
-
-I am currently interested in Working Student and Internship opportunities in:
-
-- Data Analytics
-- Business Intelligence
-- Business Analytics
-- Market Intelligence
-
-## Connect With Me
-
-- **LinkedIn:** [Md Atikur Rahman](https://www.linkedin.com/in/rootatikur/)
-- **GitHub:** [Md Atikur Rahman](https://github.com/rootatikur)
-- **Email:** atikur.de@gmail.com
-
----
-
-*Turning data into actionable business insights.*
+[GitHub profile](https://github.com/rootatikur) · [LinkedIn](https://www.linkedin.com/in/rootatikur/)
